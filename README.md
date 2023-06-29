@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-06-24 at 10 20 39 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/949f9162-5b36-4b50-a854-c3ae18f2c753">## Title 
+## Title 
 
 <h1>E-Comm RestAPI</h1>
 
@@ -21,7 +21,7 @@ The E-Comm restAPI provides with the whole backend part of the E-Comm web presen
 
 ## Demo(using Postman)
 
-
+<img width="1440" alt="Screenshot 2023-06-24 at 10 20 39 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/949f9162-5b36-4b50-a854-c3ae18f2c753">
 <img width="1440" alt="Screenshot 2023-06-24 at 12 18 51 PM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/74f36d4b-36de-4207-8530-f961e0ab8c05">
 <img width="1440" alt="Screenshot 2023-06-24 at 11 43 25 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/3b567f6a-27af-40dc-b16f-a45ab23edbd0">
 <img width="1440" alt="Screenshot 2023-06-24 at 10 32 36 AM" src="ht<img width="1440" alt="Screenshot 2023-06-24 at 11 33 37 AM" src="https://github.com/Bhavu2412/E-C<img width="1440" alt="Screenshot 2023-06-24 at 10 32 36 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/d3fcac5a-c0d8-4054-9fc7-2bd9cb6f2b83">
