@@ -19,7 +19,7 @@ The E-Comm restAPI provides with the whole backend part of the E-Comm web presen
 - User can add product to cart or remove from cart only if customer.
 - 
 
-## Demo(using Postman)
+## ScreenShot(using Postman)
 
 <img width="1440" alt="Screenshot 2023-06-24 at 10 20 39 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/949f9162-5b36-4b50-a854-c3ae18f2c753">
 
@@ -57,6 +57,7 @@ The E-Comm restAPI provides with the whole backend part of the E-Comm web presen
 
 <img width="1440" alt="Screenshot 2023-06-24 at 11 43 09 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/29bd0b3d-f973-409e-bef6-87ca9c363b43">
 
+<img width="1440" alt="Screenshot 2023-06-24 at 10 32 28 AM" src="https://github.com/Bhavu2412/E-Comm-RestAPI/assets/102239817/f6929396-f7d0-4174-abb7-d94dc2c6907d">
 
 
 
